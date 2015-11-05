@@ -11,6 +11,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "edxFS1", "edxFS1\edxFS1.fsp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "edxFS2", "edxFS2\edxFS2.fsproj", "{46DB77FB-7FEA-4401-986D-0F52994555C6}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "edxFS5", "edxFS5\edxFS5.fsproj", "{00030BAB-09F2-481A-B27D-C4DABFF92E02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{46DB77FB-7FEA-4401-986D-0F52994555C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46DB77FB-7FEA-4401-986D-0F52994555C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46DB77FB-7FEA-4401-986D-0F52994555C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00030BAB-09F2-481A-B27D-C4DABFF92E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00030BAB-09F2-481A-B27D-C4DABFF92E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00030BAB-09F2-481A-B27D-C4DABFF92E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00030BAB-09F2-481A-B27D-C4DABFF92E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
